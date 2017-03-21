@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1490107063 source:d:\trabajo clse 2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
